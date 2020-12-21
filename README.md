@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Helping US Bikeshare exploring bike share systems data of the three cities Chicago, New York City, and Washington
 
 ### Files used
 Include the files used
