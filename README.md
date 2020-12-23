@@ -8,8 +8,11 @@ Bikeshare
 Helping US Bikeshare exploring bike share systems data of the three cities Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
-
+IN this project we use the following files:
+1-bikeshare.py contain our python code
+2-chicago.csv contian information about chicago city
+3-new_york_city.csv contian information about new york city
+4-washington.csv contain information about washington city 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
