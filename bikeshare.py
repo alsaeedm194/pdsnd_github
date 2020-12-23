@@ -11,7 +11,7 @@ months = ['All','January', 'February', 'March', 'April', 'May', 'June']
 def get_filters():
     """asking the user of what city, month , day he want the filter the data by"""
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hi there Let\'s explore some US bikeshare data!..... have fun :)')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     """asking the user to Enter city he want to explore"""
     city = input('what city you want to explor\n 1: chicago \n 2: new york city \n 3: washington\n pleas type the city name shown\n').lower()
