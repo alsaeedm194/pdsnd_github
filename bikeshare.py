@@ -182,8 +182,8 @@ def display_raw(df):
         counter = 0
 
         while True:
-            print(df.iloc[counter: counter+10])
-            counter += 10
+            print(df.iloc[counter: counter+5])
+            counter += 5
                 #see if user want to see more raw data ..
             repeat = input('\n want to contue ?? Y/N \n').upper()
             if repeat != 'Y':
